@@ -7,4 +7,9 @@ a terminal is opened, reverse shell instructions typed, and window quickly close
 When the .ipo file is uploaded to the Teensy, all these instructions rest within the Teensy's firmware and hence no endpoint malware detection 
 is able to scan or prevent such an attack from happening.
 
+Ensure you change the following relevant parameters to match your reverse shell details.
+IP-here
+Port-here
+
+
 Created for demo purposes only, no liability accepted.
