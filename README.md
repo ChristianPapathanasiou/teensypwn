@@ -1,5 +1,5 @@
 # teensypwn
-Teensy 3.1 USB HID reverse shell for Mac
+Teensy 3.1 USB HID reverse shell for Mac C. Papathanasiou 2015
 
 Teensypwn turns your Teensy 3.1 into an attacker demo toolkit whereby once the Teensy is plugged into any USB port on a MacOSX machine, 
 a terminal is opened, reverse shell instructions typed, and window quickly closed so as to minimise overt attention.
